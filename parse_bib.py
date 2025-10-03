@@ -69,3 +69,7 @@ plt.tight_layout()
 # Save and show the plot
 plt.savefig('figures/articles_per_year.png')
 plt.show()
+
+# Future additions, add:
+# Living review apparatus to extract study features from PDF files - https://andjar.github.io/metawoRld/articles/conceptual_overview.html#introduction-towards-living-reviews
+# Social network analysis based on author and citation map in the style of R bibliometrix or Network workbench
